@@ -1,6 +1,24 @@
----
-owner-repo: thread53/pqviewer?ref=terminaltrove
-desc:   View Apache Parquet Files In Your Terminal 
----
+# pqviewer?ref=terminaltrove
 
-# pqviewer
+
+
+- **Upstream**: <https://github.com/thread53/pqviewer?ref=terminaltrove>
+- **Homepage**: <>
+- **Latest release**: `` (n/a)
+- **Last commit**: n/a
+- **License**: NOASSERTION
+- **Stars**: 0 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 0
+
+## Installation
+
+```sh
+x install pqviewer?ref=terminaltrove
+```
+
+See <https://x-cmd.com/install/pqviewer?ref=terminaltrove> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T10:54:54Z._
