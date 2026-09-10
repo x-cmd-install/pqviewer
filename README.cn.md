@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-![pqviewer?ref=terminaltrove](https://repo.x-cmd.io/pqviewer?ref=terminaltrove.svg)
+![pqviewer?ref=terminaltrove](https://repo.x-cmd.io/pqviewer?ref=terminaltrove.svg?lang=zh)
 
 ## 安装
 
@@ -40,4 +40,4 @@ pqviewer?ref=terminaltrove 的安装元数据由 [x-cmd/install](https://github.
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:52:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:51Z._
